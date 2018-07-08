@@ -29,4 +29,4 @@ Contact: Fangfang Wang (fangfangliana@gmail.com), Liming Zhao (zlmzju@gmail.com)
 
 - The protocal files are located in `experiments/xxx/proto` folder.
 
-- Trained models can be downloaded from [google drive](https://drive.google.com/open?id=1RWmn1KFneV9dhq2ILHCQVM5JSy9zs_zp), and then put them in `experiments/xxx/weight` folder.
+- Trained models can be downloaded from [here](https://1drv.ms/f/s!Ajj620goINVpkBmidAkIVm6GAZmv), and then put them in `experiments/xxx/weight` folder.
