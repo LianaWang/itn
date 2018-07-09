@@ -1,6 +1,6 @@
 # ITN: Geometry-Aware Scene Text Detection
 
-[Fangfang Wang](https://scholar.google.com/citations?user=T5pyEAoAAAAJ&hl=en)*, [Liming Zhao](http://www.zhaoliming.net)*, [Xi Li](http://mypage.zju.edu.cn/xilics), Xinchao Wang, and Dacheng Tao. “[Geometry-Aware Scene Text Detection with Instance Transformation Network](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.html).” In CVPR, 2018. (*authors contributed equally)
+[Fangfang Wang](https://scholar.google.com/citations?user=T5pyEAoAAAAJ&hl=en)\*, [Liming Zhao](http://www.zhaoliming.net)\*, [Xi Li](http://mypage.zju.edu.cn/xilics), Xinchao Wang, and Dacheng Tao. “[Geometry-Aware Scene Text Detection with Instance Transformation Network](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.html).” In CVPR, 2018. (\*authors contributed equally)
 
 
 
