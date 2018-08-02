@@ -15,9 +15,14 @@ year = {2018}
 ```
 
 Contact: 
+
 Fangfang Wang (fangfangliana@gmail.com);
-Liming Zhao (http://www.zhaoliming.net/, zlmzju@gmail.com)
+
+Liming Zhao (http://www.zhaoliming.net/, zlmzju@gmail.com);
+
 Xi Li (http://person.zju.edu.cn/xilics, xilizju@zju.edu.cn)
+
+
 ## Instructions
 
 - Use my [`Caffe`](https://github.com/zlmzju/caffe/tree/itn) for using transformation layer.
