@@ -25,7 +25,7 @@ Xi Li (http://person.zju.edu.cn/xilics, xilizju@zju.edu.cn)
 
 ## Instructions
 
-- Use my [`Caffe`](https://github.com/zlmzju/caffe/tree/itn) for using transformation layer.
+- Use custom [`Caffe`](https://github.com/zlmzju/caffe/tree/itn) for using transformation layer.
 
 - Run `train.sh` in the `experiments` folder to train the model.
 
