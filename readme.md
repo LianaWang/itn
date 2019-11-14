@@ -16,7 +16,7 @@ year = {2018}
 
 Contact: 
 
-Fangfang Wang (fangfangliana@gmail.com);
+Fangfang Wang (https://scholar.google.com/citations?user=T5pyEAoAAAAJ&hl=en, fangfangliana@gmail.com);
 
 Liming Zhao (http://www.zhaoliming.net/, zlmzju@gmail.com);
 
@@ -25,7 +25,7 @@ Xi Li (http://person.zju.edu.cn/xilics, xilizju@zju.edu.cn)
 
 ## Instructions
 
-- Use custom [`Caffe`](https://github.com/zlmzju/caffe/tree/itn) for using transformation layer.
+- Use our custom [`Caffe`](https://github.com/zlmzju/caffe/tree/itn) for using transformation layer.
 
 - Run `train.sh` in the `experiments` folder to train the model.
 
